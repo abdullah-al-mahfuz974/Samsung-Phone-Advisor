@@ -1,0 +1,13 @@
+Python 3.12
+
+yfinance
+
+pandas
+
+matplotlib
+
+psycopg2-binary
+
+Google Colab
+
+PostgreSQL
